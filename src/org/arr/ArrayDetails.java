@@ -21,6 +21,7 @@ public class ArrayDetails {
 		}
 		for(String x:si) {
 			System.out.println(x);
+			
 		}
 	}
 
